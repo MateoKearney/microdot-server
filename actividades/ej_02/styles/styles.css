@@ -1,0 +1,26 @@
+h1 {
+     text-align: center;   
+}
+
+main {
+    background-color: #f3a208;   
+}
+
+.botones {
+    display: flex;
+    justify-content: space-evenly;
+    height: 70vh;
+    background-color: #810ff8;
+}
+
+.boton {
+    height: 20%;
+    display: flex;
+    align-self: center;
+}
+
+button {
+    border-radius: 20%;
+    align-self: center;
+    background-color: #fff;
+}
